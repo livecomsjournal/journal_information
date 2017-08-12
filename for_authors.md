@@ -64,7 +64,7 @@ Reviews will consider the following factors, depending on manuscript category:
 
 **Manuscript Revisions Rrocess**: If manuscript revision is requested, authors will be asked to re-submit within 14 days for minor revisions and 30 days for major revisions. After this time, a revised manuscript will be handled as a new submission.
 
-** Versioning**:
+**Versioning**:
 
 A unique aspect of LiveCoMS is article versions. New versions of manuscripts can be submitted for peer review, to be treated as new publications, with new DOI’s.  Versioning would generally be done no more frequently than every 12 months.  
 
