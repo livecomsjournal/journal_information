@@ -4,7 +4,7 @@ The inspiration for Best Practices documents can be found in the Atul
 Gawande article [The
 Checklist](http://www.newyorker.com/magazine/2007/12/10/the-checklist),
 later expanded in his bestseller [The Checklist
-Manifesto](http://atulgawande.com/book/the-checklist-manifesto/. The
+Manifesto](http://atulgawande.com/book/the-checklist-manifesto/). The
 main goal of these documents is to reduce common errors by ensuring
 appropriate choices are made throughout a difficult task. 
 
