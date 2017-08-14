@@ -2,7 +2,7 @@ Thank you for your interest in LiveCoMS. The Living Journal of Computational Mol
 
 # Before Submission
 
-## Presubmission letter:
+## Presubmission letter
 
 Authors should first send a presubmission letter to an editor in the relevant area.  The letter should be no more than one page, and should:
 * Outline the scope of their best practice document or review.
@@ -13,7 +13,7 @@ Authors should first send a presubmission letter to an editor in the relevant ar
 
 Potential authors submitting a presubmission letter will recieve an answer within two weeks with either encouragement for a full submission, suggestion to work with previous authors on existing articles, or discouragement.  Articles should be received within six months of a notification of encouragement.
 
-## Preparation of Preprint Document:
+## Preparation of Preprint Document
 
 The authors should prepare the document using [LaTeX](https://www.latex-project.org/) or Markdown, in a public repository owned by one of the authors on [GitHub](http://wwww.github.com).  For an example, see [the following living review](https://github.com/MobleyLab/benchmarksets). Questions, comments, or additions from the community would be filed as issues and then could be incorporated. LiveCoMS [provides template LaTex files to start from](http://www.github.com/livecoms/author_templates), and instructions for exactly how to structure the documents.
 
@@ -39,7 +39,7 @@ B. A much more detailed section with the necessary rationale for the checklist, 
 
 ** Living Reviews**: Perpetual reviews, like standard reviews, except that they can be updated as information comes out, and can be responsive to community input, and remain up to date on the current state of the field as it evolves. 
 
-# Review process:
+# Review process
 
 After posting to the preprint server, the author will upload the final PDF files (which have been created using the [LiveCoMS templates](http://www.github.com/livecoms/author_templates) for consistent formatting) and a link to the GitHub site of the articles.
 
@@ -62,9 +62,9 @@ Reviews will consider the following factors, depending on manuscript category:
     * Have the authors removed data that is out of date, and qualified information that has been disproven?
     * Do the authors include data and viewpoints that are contradictory to their own?
 
-**Manuscript Revisions Rrocess**: If manuscript revision is requested, authors will be asked to re-submit within 14 days for minor revisions and 30 days for major revisions. After this time, a revised manuscript will be handled as a new submission.
+**Manuscript Revisions Process** If manuscript revision is requested, authors will be asked to re-submit within 14 days for minor revisions and 30 days for major revisions. After this time, a revised manuscript will be handled as a new submission.
 
-**Versioning**:
+## Versioning
 
 A unique aspect of LiveCoMS is article versions. New versions of manuscripts can be submitted for peer review, to be treated as new publications, with new DOI’s.  Versioning would generally be done no more frequently than every 12 months.  
 
@@ -85,14 +85,19 @@ Participants (authors, people providing feedback and filing issues, etc.) should
 * If authors do not engage with substantial issues that have been raised, they may be asked to address these in the review process. 
 * If authors do not substantively engage in the discussions on issues that are raised, this may prevent new updates of the review from being accepted.
 
-#Funding Compliance:
+# Funding Compliance:
 Authors are required to report funding sources and grant/award numbers relevant to the manuscript for ALL authors.
 
 Authors should note whether any funding could be perceived as a conflict of interest - e.g., an article describing software in which an author has a financial interest.
 
 # Licensing and Rights: 
-**Licensing**: LiveCoMS does not require any copyright transfer to the journal.  Instead, LiveCoMS requires some license that allows LiveCoMS to distribute the articles freely consistent with Open Access requirements. We recommend that all submissions to LiveCoMS be released by the author under a Creative Commons By Attribution license version 4.0  All rights are retained by the authors. 
 
-**Policy on Prior Publication**: Documents should not have been submitted in the current form to another journal, or be simultaneously under consideration for publication another journal. Preprints (previous to the one submitted to LiveCoMS) do not count as prior publication.  Documents that are major revisions of previously published articles are welcomed. However, authors should ensure that material they develop for the journal does not have rights reserved by other journals from such previous publication that impede release under open licenses. Some journals, for example, “Annual Reviews” let the authors retain rights for derivative works, which could be exercised in preparing a review to be published in LiveCoMS. 
+## Licensing 
+
+LiveCoMS does not require any copyright transfer to the journal.  Instead, LiveCoMS requires some license that allows LiveCoMS to distribute the articles freely consistent with Open Access requirements. We recommend that all submissions to LiveCoMS be released by the author under a Creative Commons By Attribution license version 4.0  All rights are retained by the authors. 
+
+## Policy on Prior Publication: 
+
+Documents should not have been submitted in the current form to another journal, or be simultaneously under consideration for publication another journal. Preprints (previous to the one submitted to LiveCoMS) do not count as prior publication.  Documents that are major revisions of previously published articles are welcomed. However, authors should ensure that material they develop for the journal does not have rights reserved by other journals from such previous publication that impede release under open licenses. Some journals, for example, “Annual Reviews” let the authors retain rights for derivative works, which could be exercised in preparing a review to be published in LiveCoMS. 
 
 If an article is an adaptation of a previously published article, it must be noted in the cover letter, and major changes noted. Evaluating whether such changes constitute a significant revision will be part of the review process.
