@@ -1,4 +1,4 @@
-*Best Practice Guides*
+# Best Practice Guides
 
 The inspiration for Best Practices documents can be found in the Atul
 Gawande article [The
