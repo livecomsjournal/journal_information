@@ -3,7 +3,7 @@
 Perpetual reviews, like standard reviews, except that they can be
 updated as information comes out, and can be responsive to community
 input, and remain up to date on the current state of the field as it
-evolves. An example of this process can be found at in [Mobley at
+evolves. An example of this process can be found at in [Mobley et
 al. review](https://github.com/MobleyLab/benchmarksets), which was
 originally an "Annual Reviews in Biophysics" article, but is now being
 updated regularly.
