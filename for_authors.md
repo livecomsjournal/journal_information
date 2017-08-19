@@ -1,4 +1,4 @@
-Thank you for your interest in LiveCoMS. The Living Journal of Computational Molecular science is a peer-reviewed journal and welcomes submissions from all investigators.
+Thank you for your interest in LiveCoMS. The Living Journal of Computational Molecular Science is a peer-reviewed journal and welcomes submissions from all investigators.
 
 # Before Submission
 
@@ -7,19 +7,21 @@ Thank you for your interest in LiveCoMS. The Living Journal of Computational Mol
 Authors should first send a presubmission letter to an editor in the relevant area.  The letter should be no more than one page, and should:
 * Outline the scope of their best practice document or review.
 * Explain how the proposed manuscript is different than existing best practices articles or reviews. 
-* Whether it is adapted from a previous article.
+* Note whether it is adapted from a previous article (and identify the article if so).
 * Explain the expertise that the proposed authors have on the subject.
 * Describe the license that the authors will use that will enable the article to be released freely to the public.
 
-Potential authors submitting a presubmission letter will recieve an answer within two weeks with either encouragement for a full submission, suggestion to work with previous authors on existing articles, or discouragement.  Articles should be received within six months of a notification of encouragement.
+Potential authors submitting a presubmission letter will typically receive an answer within two weeks with either encouragement for a full submission, suggestion to work with previous authors on existing articles, or discouragement.
+Articles should be received within six months of a notification of encouragement.
 
 ## Preparation of Preprint Document
 
-The authors should prepare the document using [LaTeX](https://www.latex-project.org/) or Markdown, in a public repository owned by one of the authors on [GitHub](http://wwww.github.com).  For an example, see [the following living review](https://github.com/MobleyLab/benchmarksets). Questions, comments, or additions from the community would be filed as issues and then could be incorporated. LiveCoMS [provides template LaTex files to start from](http://www.github.com/livecoms/author_templates), and instructions for exactly how to structure the documents.
+The authors should prepare the document using [LaTeX](https://www.latex-project.org/) in a public repository owned by one of the authors on [GitHub](http://wwww.github.com).  For an example, see [the following perpetual review](https://github.com/MobleyLab/benchmarksets). Questions, comments, or additions from the community would be filed as issues and then could be incorporated. LiveCoMS [provides template LaTex files to start from](http://www.github.com/livecoms/author_templates), and instructions for exactly how to structure the documents.
 
 The authors post the resulting PDF document to a preprint server of their choice, which can be any one of:
 * [ArXiv](https://arxiv.org)
 * [BioRxiv](http://www.bioarxiv.org)
+* [ChemRxiv](https://chemrxiv.org/)
 * [Faculty of 1000 Research](https://f1000research.com)
 * Any of the [Open Science Framework preprint servers](https://osf.io/preprints/) (engrXiv, etc.)
 
@@ -37,7 +39,7 @@ critical major errors are avoided.
 
 B. A much more detailed section with the necessary rationale for the checklist, which would act as more complete “best practices” description, with significant detail as to the possible alternative ways to accomplish a given task, when one would be better than another, and significant literature documentation about reasons for choices.
 
-** Living Reviews**: Perpetual reviews, like standard reviews, except that they can be updated as information comes out, and can be responsive to community input, and remain up to date on the current state of the field as it evolves. 
+**Perpetual Reviews**: These are like standard reviews, except that they can be updated as information comes out, and can be responsive to community input, and remain up to date on the current state of the field as it evolves. 
 
 # Review process
 
@@ -55,27 +57,27 @@ Reviews will consider the following factors, depending on manuscript category:
 
 * Best practice documents
     * Would following the checklists help users avoid significant potential errors in simulation? Will the errors be profound and/or frequent? 
-    *Are all assertions well sourced in published data (which may, in some cases, include data created for the document)?
+    * Are all assertions well sourced in published data (which may, in some cases, include data created for the document)?
     * Are the explanations clear enough for researchers with only moderate training in simulation?
-* Living reviews
+* Perpetual reviews
     * Do the authors properly include information from the recent literature, including last 6 to 12 months?
     * Have the authors removed data that is out of date, and qualified information that has been disproven?
     * Do the authors include data and viewpoints that are contradictory to their own?
 
-**Manuscript Revisions Process** If manuscript revision is requested, authors will be asked to re-submit within 14 days for minor revisions and 30 days for major revisions. After this time, a revised manuscript will be handled as a new submission.
+**Manuscript Revisions Process**: If manuscript revision is requested, authors will be asked to re-submit within 14 days for minor revisions and 30 days for major revisions. After this time, a revised manuscript will be handled as a new submission.
 
 ## Versioning
 
-A unique aspect of LiveCoMS is article versions. New versions of manuscripts can be submitted for peer review, to be treated as new publications, with new DOI’s.  Versioning would generally be done no more frequently than every 12 months.  
+A unique aspect of LiveCoMS is article versions. New versions of manuscripts can be submitted for peer review, to be treated as new publications, with new DOI’s.  Versioning should generally be done no more frequently than every 12 months.  
 
-The review process for a revision to be listed a new version of the document will be similar to the review process for the initial version.  Additional review criteria will include whether or not issues the community raised were responded to, and whether the revision includes sufficiently new material. 
+The review process for a revision to be listed as a new version of the document will be similar to the review process for the initial version.  Additional review criteria will include whether or not issues the community raised were responded to, and whether the revision includes sufficiently new material. 
 
 * Best practice documents may start with more frequent versions, as initial rounds of community input are solicited. Authors are encouraged to update their private GitHub versions as frequently as desired; 
 
-* Living Reviews: Authors will be asked to update reviews at least once every 36 months for reviews, and will be encouraged to change authors as needed so the review can be maintained, or else the review will be “made emeritus” and indicated as out of date on the site.  We recommend updating at least every 24 months.  However, Authors decide when it is time to re-version based on feedback. 
+* Perpetual Reviews: Authors will be asked to update reviews at least once every 36 months for reviews, and will be encouraged to change authors as needed so the review can be maintained, or else the review will be “made emeritus” and indicated as out of date on the site.  We recommend updating at least every 24 months.  However, Authors decide when it is time to re-version based on feedback. 
 
 Participants (authors, people providing feedback and filing issues, etc.) should get credit for their contributions. 
-* People who offer comments/citations are listed on GitHub README.md, and should be listed in the acknowledgement section if contributions are used in the paper.  
+* People who offer comments/citations are listed on  the relevant GitHub README markdown file, and should be listed in the acknowledgement section if contributions are used in the paper.  
 * If the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted.   
 * In general, changes which constitute writing a significant part of the article merit authorship, but not those which do not. Smaller changes should be acknowledged. 
 * Exactly what constitutes “significant” is by necessity subjective, and authors should endeavor to be generous. 
