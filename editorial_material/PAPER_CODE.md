@@ -34,7 +34,7 @@ Relating to incentives, it is worth noting that GitHub automatically tracks cont
 
 ## How it works in practice
 
-In practice, authors simply make their paper's source material (LaTeX source, image files, tables, etc., along with as much of the raw material as possible) in a public GitHub repository and link to this in their preprint, encouraging community participation via the issue tracker (for discussion/reports of problems) or via pull requests (proposed edits of the material)..
+In practice, authors simply make their paper's source material (LaTeX source, image files, tables, etc., along with as much of the raw material as possible) in a public GitHub repository and link to this in their preprint, encouraging community participation via the issue tracker (for discussion/reports of problems) or via pull requests (proposed edits of the material).
 If the article draws an interested community, the authors can expect contributions in both forms. 
 Some readers will certainly catch typos or recommend other references or additional discussion via the issue tracker; others may be interested in actually helping to contribute by proposing modifications such as via pull requests.
 The authors then review issues and proposed changes, dealing with them appropriately.
