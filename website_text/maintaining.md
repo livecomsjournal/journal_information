@@ -1,0 +1,13 @@
+Versioning:
+New versions of manuscripts can be submitted for peer review, to be treated as new publications, with new DOI’s. 
+Versioning would generally be done no more frequently than every 12 months. 
+Best practice documents will likely start with more frequent versions, as initial rounds of community input are solicited.
+Authors are encouraged to update their private GitHub versions as frequently as desired;  Forerhaps they only need to be updated every 60 months, and may not be updated as much after the initial pass.
+Reviews: Authors will be asked to update reviews at least once every 36 months for reviews, and will be encouraged to change authors as needed so the review can be maintained, or else the review will be “made emeritus” and indicated as out of date on the site.  We recommend updating at least every 24 months.  Authors decide when it is time to re-version based on feedback. 
+The review process for a revision to be listed a new version of the document will be similar to the review process for the initial version.  Additional review criteria will include whether or not issues the community raised were responded to, and whether the revision includes sufficiently new material. 
+Participants (authors, people providing feedback and filing issues, etc.) should get credit. People who offer comments/citations are listed on GitHub README.md, and should be listed in the acknowledgement section if contributions are used in the paper.  If the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted.  
+In general, changes which constitute writing a significant part of the article merit authorship, but not those which do not. Smaller changes should be acknowledged. Exactly what constitutes “significant” is by necessity subjective, and authors should endeavor to be generous. Editors will also review revisions to ensure appropriate credit is being given.
+If contributors feel that they should be given authorship based on the number of accepted commits, the editors will help resolve any disputes.  
+If contributors feel that their commits are not being accepted by the authors they should first strive to convince the authors and the community that are reviewing the document through better documented and more convincing arguments.  
+If authors do not engage with substantial issues that have been raised, they may be asked to address these in the review process. 
+If authors do not substantively engage in the discussions on issues that are raised, this may prevent new updates of the review from being accepted
