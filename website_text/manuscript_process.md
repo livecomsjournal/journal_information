@@ -69,7 +69,7 @@ The submission of existing tutorials, so long as they meet journal standards, is
 
 # Before Submission
 
-## Presubmission letter
+## Presubmission Letter
 
 Authors should first send a presubmission letter to the lead an editor in the relevant area.  The letter should be no more than one page, and should:
 * Outline the scope of their best practice document or review.
@@ -89,7 +89,8 @@ by one of the authors on [GitHub](http://wwww.github.com).
 LiveCoMS [provides template LaTex files to start from](http://www.github.com/livecoms/author_templates), and instructions for exactly how to structure the documents. 
 We require that articles that are submitted to LiveCoMS use these templates for the articles so that the journal has a consistent visual presentation.
 
-For an example of such an article, see [the following perpetual review](https://github.com/MobleyLab/benchmarksets). Questions, comments, or additions from the community would be filed as issues and then could be incorporated. 
+For an example of such an article, see [the following perpetual review](https://github.com/MobleyLab/benchmarksets). 
+Questions, comments, or additions from the community would be filed as issues and then could be incorporated. 
 
 One written, the authors post the resulting PDF document to a preprint server of their choice, which can be any one of:
 * [ArXiv](https://arxiv.org)
@@ -100,38 +101,33 @@ One written, the authors post the resulting PDF document to a preprint server of
 
 Posting to the preprint server can be done at any time before review. 
 
-## Review process
+## The Review Process
 
 After posting to the preprint server, the author will upload the final
 PDF files (which have been created using the [LiveCoMS
 templates](http://www.github.com/livecoms/author_templates) for
 consistent formatting) and a link to the GitHub site of the articles.
 
-The authors must also submit a cover letter with suggestions for 4-5
-reviewers.
+The authors must also submit a cover letter with suggestions for 4--5
+reviewers, and noting any deviations from the presubmission letter.
 
-The editors will choose reviewers, which may include the editors
-themselves.  
-Reviews will generally be anonymous, though reviewers
-will be allowed to become known if they desire, and can participate
+The editors will choose reviewers, which may include the editors themselves.  
+Reviews will generally be anonymous, though reviewers will be allowed to become known if they desire, and can participate
 directly in revisions through the GitHub website.
 
-A key purpose of the
-articles is that they should be useful to a range of researchers, but
-especially beginning researchers.  Thus, all best practice and review
-articles will be reviewed by a member of the student review board,
-which consists of graduate students and postdocs invited by the
-editorial board.
+A key purpose of the articles is that they should be useful to a range of researchers, but
+especially beginning researchers. 
+Thus, all best practice and review articles will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
 
 Authors are also encouraged to have other researchers review their
 content, with comments and responses done via the GitHub issue
-tracker.  
+tracker. 
 A history of revisions in response to community issues will favorably
 help the review.
 
-Reviews will consider the following factors, depending on manuscript category:
+Reviews will also consider the following factors according to manuscript category:
 
-* Best practice documents
+* Best practice guides
     * Would following the checklists help users avoid significant potential errors in simulation? Will the errors be profound and/or frequent? 
     * Are all assertions well sourced in published data (which may, in some cases, include data created for the document)?
     * Are the explanations clear enough for researchers with only moderate training in simulation?
@@ -169,26 +165,28 @@ The review process for a revision to be listed as a new version of the document 
 * Tutorials: Authors should generally update reviews when the software used for the tutorial such that the tutorial description no longer gives substantially similar results.
 
 
-## Authorship and revisions
+## Authorship and Revisions
 
 Authorship for a "living" document like those that LiveCoMS publishes
-becomes complicated as the document evolves, and more peple
+becomes complicated as the document evolves, and more people
 contribute. 
 A general principle that LiveCoMS has is that participants
 (authors, people providing feedback and filing issues, etc.) should
 get credit for their contributions. 
 In general, changes which constitute writing a significant part of the article merit authorship,
-but not those which do not constiute smaller portions.  These smaller changes, however, should still be acknowledged.
+but not those which do not constitute smaller portions.  These smaller changes, however, should still be acknowledged.
 
 In order to acknowledge these contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README markdown file, and should be listed in the acknowledgement section of the paper. 
-However, if the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted. 
+However, if the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted.
+
+
 Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous.In the process of reviewing revisions, editors will examine the history of the GitHub repository to ensure appropriate credit is being given. 
-If contributors feel that they should be given authorship based on the number of accepted commits, the editors will help resolve any disputes.  
-If contributors feel that their commits are not being accepted by the authors they should first strive to convince the authors and the community that are reviewing the document through better documented and more convincing arguments.   
+If contributors feel that they should be given authorship based on the number of accepted commits, the editors will help resolve any disputes. 
+If contributors feel that their commits are not being accepted by the authors they should first strive to convince the authors and the community that are reviewing the document through better documented and more convincing arguments. 
 If authors do not engage with substantial issues that have been raised, they may be asked to address these issues in the review process. 
 If authors do not substantively engage in the discussions on issues that are raised, this may prevent new updates of the review from being accepted.
 
-## Other issues and policies for submitted articles
+## Other Policies for Submitted Articles
 
 ### Funding Compliance
 Authors are required to report funding sources and grant/award numbers relevant to the manuscript for ALL authors.
@@ -211,3 +209,4 @@ Some journals, for example, “Annual Reviews” let the authors retain rights f
 
 If an article is an adaptation of a previously published article, it must be noted in the cover letter, and major changes noted. 
 Evaluating whether such changes constitute a significant revision will be part of the review process.
+

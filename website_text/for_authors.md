@@ -42,7 +42,7 @@ for LiveCoMS](https://github.com/livecomsjournal/journal_information/manuscript_
 We understand that in the evolving lifetime of such a perpetual
 article, there may be changes in authorship.  A general principle of
 LiveCoMS LiveCoMS is that participants (new authors, people providing
-feedback) should recieve credit for their contributions. A complete
+feedback) should receive credit for their contributions. A complete
 description of LiveCoMS policies for publication credit can be found
 in [the guide for writing an article for LiveCoMS](https://github.com/livecomsjournal/journal_information/manuscript_process.md)).
 
@@ -54,4 +54,3 @@ manuscripts are published in LiveCoMS: Best practices guides,
 perpetual reviews, comparisons of molecular simulation programs, and
 tutorials. More details on each of these articles can be found 
 in [the guide for writing an article for LiveCoMS](https://github.com/livecomsjournal/journal_information/manuscript_process.md)
-
