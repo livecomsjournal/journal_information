@@ -11,7 +11,7 @@ In this article, we lay out the process by which authors create an article, subm
 There are no explicit length limits on any manuscript. 
 Articles do not need to contain original research, but may contain it.
 
-## Types of articles
+## Types of Articles
 
 **Best Practices Manuscripts**: The goal of best practices manuscripts are to improve the quality of simulation research by providing advice that can eliminate the most common errors. 
 These documents consist of:
@@ -180,9 +180,9 @@ get credit for their contributions.
 In general, changes which constitute writing a significant part of the article merit authorship,
 but not those which do not constiute smaller portions.  These smaller changes, however, should still be acknowledged.
 
-In order to acknowledge these contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README markdown file, and should be listed in the acknowledgement section of the paper.   
-However, of the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted. 
-Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous.  In the process of reviewing revisions, editors will examine the history of the GitHub repository to ensure appropriate credit is being given. 
+In order to acknowledge these contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README markdown file, and should be listed in the acknowledgement section of the paper. 
+However, if the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted. 
+Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous.In the process of reviewing revisions, editors will examine the history of the GitHub repository to ensure appropriate credit is being given. 
 If contributors feel that they should be given authorship based on the number of accepted commits, the editors will help resolve any disputes.  
 If contributors feel that their commits are not being accepted by the authors they should first strive to convince the authors and the community that are reviewing the document through better documented and more convincing arguments.   
 If authors do not engage with substantial issues that have been raised, they may be asked to address these issues in the review process. 
@@ -190,7 +190,7 @@ If authors do not substantively engage in the discussions on issues that are rai
 
 ## Other issues and policies for submitted articles
 
-### Funding Compliance:
+### Funding Compliance
 Authors are required to report funding sources and grant/award numbers relevant to the manuscript for ALL authors.
 
 Authors should note whether any funding could be perceived as a conflict of interest, e.g., an article describing software in which an author has a financial interest.
@@ -201,10 +201,10 @@ LiveCoMS does not require any copyright transfer to the journal.
 Instead, LiveCoMS requires some license that allows LiveCoMS to distribute the articles freely consistent with Open Access requirements. 
 We recommend that all submissions to LiveCoMS be released by the author under a Creative Commons By Attribution license version 4.0.
 
-### Policy on Prior Publication: 
+### Policy on Prior Publication
 
 Documents should not have been submitted in the current form to another journal, or be simultaneously under consideration for publication another journal. 
-Preprints (previous to the one submitted to LiveCoMS) do not count as prior publication.  
+Preprints (previous to the one submitted to LiveCoMS) do not count as prior publication. 
 Documents that are major revisions of previously published articles are welcomed. 
 However, authors should ensure that material they develop for the journal does not have rights reserved by other journals from such previous publication that impede release under open licenses. 
 Some journals, for example, “Annual Reviews” let the authors retain rights for derivative works, which could be exercised in preparing a review to be published in LiveCoMS. 
