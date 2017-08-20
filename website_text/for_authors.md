@@ -35,7 +35,7 @@ publications, with new DOI’s. Authors are therefore encouraged to have
 other researchers review their content, with comments and responses
 done via the GitHub issue tracker. Such review and revision can occur
 at any time--before submission, after acceptance. When the author
-feels the article is sufficiently different.  A description of the
+feels the article is sufficiently different, they can submit a new version for publication. A description of the
 versioning process can be found in [the guide for writing an article
 for LiveCoMS](https://livecomsjournal.github.io/).  
 
