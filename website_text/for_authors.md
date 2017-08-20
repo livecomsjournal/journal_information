@@ -5,8 +5,8 @@ The Living Journal of Computational Molecular Science is a peer-reviewed journal
 
 Authors should first send a presubmission letter to an editor in the relevant area. 
 The contents of the  [letter are described in the Guide for writing articles for LiveCoMS](https://livecomsjournal.github.io/).
-The authors should prepare the document using [LaTeX](https://www.latex-project.org/) in a public repository owned by one of the authors on [GitHub](http://wwww.github.com), using the [template LaTex files to start from](http://www.github.com/livecoms/author_templates).
-Instructions on how to use the templates can be found [in the GitHub repository with the template files](http://www.github.com/livecoms/author_templates).
+The authors should prepare the document using [LaTeX](https://www.latex-project.org/) in a public repository owned by one of the authors on [GitHub](http://wwww.github.com), using the [template LaTex files to start from](https://github.com/livecomsjournal/article_templates).
+Instructions on how to use the templates can be found [in the GitHub repository with the template files](http://https://github.com/livecomsjournal/article_templates).
 
 The authors the post the resulting document to a preprint server of their choice. 
 Posting to the preprint server can be done at any time before review. 
@@ -35,5 +35,5 @@ A complete description of LiveCoMS policies for publication credit can be found 
 There are no explicit length limits on any manuscript. 
 Articles do not need to contain original research, but may contain it. 
 Four types of manuscripts are published in LiveCoMS: Best practices guides, perpetual reviews, comparisons of molecular simulation programs, and tutorials. 
-More details on each of these articles can be found  in [the guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/).
+More details on each of these article types can be found in [the guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/).
 
