@@ -1,3 +1,4 @@
-The pdf describing document types is produced by running:
+## Journal Information
 
-pandoc best_practices.md living_reviews.md simulation_comparisons.md tutorials.md --variable urlcolor=blue -o documentypes.pdf
+This directory contains information, policies, and editorial policies for LiveCoMS 
+

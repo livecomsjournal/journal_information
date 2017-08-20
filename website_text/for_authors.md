@@ -54,3 +54,5 @@ manuscripts are published in LiveCoMS: Best practices guides,
 perpetual reviews, comparisons of molecular simulation programs, and
 tutorials. More details on each of these articles can be found 
 in [the guide for writing an article for LiveCoMS](https://github.com/livecomsjournal/journal_information/manuscript_process.md)
+
+ LocalWords:  LiveCoMS
