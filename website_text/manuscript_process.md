@@ -183,8 +183,8 @@ but not those which do not constiute smaller portions.  These smaller changes, h
 In order to acknowledge these contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README markdown file, and should be listed in the acknowledgement section of the paper.   
 However, of the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted. 
 Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous.  In the process of reviewing revisions, editors will examine the history of the GitHub repository to ensure appropriate credit is being given. 
-If contributors feel that they should be given authorship based on the number of accepted commits, the editors will help resolve any disputes.  I
-f contributors feel that their commits are not being accepted by the authors they should first strive to convince the authors and the community that are reviewing the document through better documented and more convincing arguments.   
+If contributors feel that they should be given authorship based on the number of accepted commits, the editors will help resolve any disputes.  
+If contributors feel that their commits are not being accepted by the authors they should first strive to convince the authors and the community that are reviewing the document through better documented and more convincing arguments.   
 If authors do not engage with substantial issues that have been raised, they may be asked to address these issues in the review process. 
 If authors do not substantively engage in the discussions on issues that are raised, this may prevent new updates of the review from being accepted.
 
