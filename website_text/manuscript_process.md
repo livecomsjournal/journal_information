@@ -1,4 +1,4 @@
-#The process of submitting an article to LiveCoMS
+# The process of submitting an article to LiveCoMS
 
 ## Introduction
 
