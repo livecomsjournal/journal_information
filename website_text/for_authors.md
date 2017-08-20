@@ -18,7 +18,7 @@ The authors the post the resulting document to a preprint server of
 their choice. Posting to the preprint server can be done at any time
 before review. After posting to the preprint server, the authors then
 submit to LiveCoMS.  A complete description of the submission process
-can be found in [the guide for writing an article for LiveCoMS](https://github.com/livecomsjournal/journal_information/manuscript_process.md)
+can be found in [the guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/)
 
 # Review and revision
 
@@ -37,14 +37,14 @@ done via the GitHub issue tracker. Such review and revision can occur
 at any time--before submission, after acceptance. When the author
 feels the article is sufficiently different.  A description of the
 versioning process can be found in [the guide for writing an article
-for LiveCoMS](https://github.com/livecomsjournal/journal_information/manuscript_process.md).  
+for LiveCoMS](https://livecomsjournal.github.io/).  
 
 We understand that in the evolving lifetime of such a perpetual
 article, there may be changes in authorship.  A general principle of
 LiveCoMS LiveCoMS is that participants (new authors, people providing
 feedback) should receive credit for their contributions. A complete
 description of LiveCoMS policies for publication credit can be found
-in [the guide for writing an article for LiveCoMS](https://github.com/livecomsjournal/journal_information/manuscript_process.md)).
+in [the guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/).
 
 # Types of articles
 
@@ -53,6 +53,5 @@ need to contain original research, but may contain it.  Four types of
 manuscripts are published in LiveCoMS: Best practices guides,
 perpetual reviews, comparisons of molecular simulation programs, and
 tutorials. More details on each of these articles can be found 
-in [the guide for writing an article for LiveCoMS](https://github.com/livecomsjournal/journal_information/manuscript_process.md)
+in [the guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/).
 
- LocalWords:  LiveCoMS
