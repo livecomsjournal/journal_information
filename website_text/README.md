@@ -1,4 +1,4 @@
-## Journal Information
+## Website Text
 
-This directory contains information, policies, and editorial policies for LiveCoMS 
+This directory contains an editable version of the Markdown files to be placed at the [main Scholastica journal site](http://www.livecomsjournal.org)
 
