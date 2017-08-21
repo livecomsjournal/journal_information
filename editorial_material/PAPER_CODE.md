@@ -7,6 +7,7 @@ It is not unusual for contributions even to come from experts previously unknown
 *We believe this same model will improve our science writing* in LiveCoMS' area -- reviews, best practices documents, tutorials, and other living documents. 
 Authors can make the text of their documents available online as if it were code, and the interested community can provide feedback, make suggestions, and bring new information (additional references, an alternate perspective, confirmatory data, etc.) to the table and to the paper.
 Some particularly helpful individuals may even provide new text that the authors may wish to incorporate into their papers, just as outside workers might contribute to a software project. 
+Significant contributions by individuals outside the initial author list may warrant inclusion as authors in updated article versions as described below and in the Guide to Submitting a Paper to LiveCoMS.
 
 ## Incentives
 
@@ -39,10 +40,10 @@ If the article draws an interested community, the authors can expect contributio
 Some readers will certainly catch typos or recommend other references or additional discussion via the issue tracker; others may be interested in actually helping to contribute by proposing modifications such as via pull requests.
 The authors then review issues and proposed changes, dealing with them appropriately.
 
-Perhaps this may seem idealistic, but a recent example proves this model can work. 
+A recent example demonstrates this model can work. 
 David Mobley and Michael Gilson wrote a recent review paper on benchmarking binding free energy calculations, [Predicting binding free energies: Frontiers and benchmarks](https://github.com/mobleylab/benchmarksets) which uses precisely this model. 
 A variety of community contributions have already come in, with some contributions extensive enough that one new author has already been added and another is being added (as of this writing).
 The paper is substantially longer new, covers more of the field, and includes a variety of new developments which occurred since its original publication. 
 
-We will also make available some practical, detailed instructions on using GitHub in this manner, though authors using this model will need to gain some basic familiarity with using git and GitHub, or have a co-author who handles this aspect.
+LiveCoMS will also make available some practical, detailed instructions on using GitHub in this manner, though authors using this model will need to gain some basic familiarity with using git and GitHub, or have a co-author who handles this aspect.
  
