@@ -1,3 +1,4 @@
-The pdf describing document types is produced by running:
+## Website Text
 
-pandoc best_practices.md living_reviews.md simulation_comparisons.md tutorials.md --variable urlcolor=blue -o documentypes.pdf
+This directory contains an editable version of the Markdown files to be placed at the [main Scholastica journal site](http://www.livecomsjournal.org)
+
