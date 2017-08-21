@@ -107,9 +107,9 @@
 \RequirePackage{natbib}
 \renewcommand{\bibfont}{\small}
 % modifed from https://github.com/gbhutani/vancouver_authoryear_bibstyle/
-\IfFileExists{vancouver-elife.bst}
-  {\bibliographystyle{vancouver-elife}}
-  {\PackageWarning{elife}{vancouver-elife.bst not found; falling back to apalike bibliography style.}\bibliographystyle{apalike}}
+\IfFileExists{vancouver-livecoms.bst}
+  {\bibliographystyle{vancouver-livecoms}}
+  {\PackageWarning{elife}{vancouver-livecoms.bst not found; falling back to apalike bibliography style.}\bibliographystyle{apalike}}
 % Make author in citation italic
 \renewcommand{\NAT@nmfmt}[1]{{\bfseries\itshape\color{LiveCoMSMediumGrey} #1}}
 
