@@ -22,7 +22,7 @@ A unique aspect of LiveCoMS is article versioning.
 New versions of manuscripts can be submitted for peer review, to be treated as new publications, with new DOI’s. 
 Authors are therefore encouraged to involve the community in reviewing, improving, and (if warranted) expanding their work, with comments and responses done via the GitHub issue tracker. 
 Such review and revision can occur at any time--before submission, during the review process, and after acceptance. 
-When the author feels the article is sufficiently different from a previously published LiveComs article, they can submit a new version for publication. 
+When the author feels the article is sufficiently different from a previously published LiveCoMS article, they can submit a new version for publication. 
 A description of the versioning process can be found in [the guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/).  
 
 We understand that in the evolving lifetime of such a perpetual article, there may be changes in authorship. 
