@@ -1,4 +1,4 @@
-**Managing Editors**: Michael Shirts, Dan Zuckerman
+**Managing Editors**: David Mobley, Michael Shirts, Daniel Zuckerman
 
 **Lead Editor for Living Reviews**: David Mobley
 
@@ -16,7 +16,7 @@
 
 [Michael Shirts](https://www.nist.gov/people/daniel-siderius) (University of Colorado Boulder)
 
-[Dan Zuckerman](http://www.ohsuwelcome.com/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) (Oregon Health Sciences University)
+[Daniel Zuckerman](http://www.ohsuwelcome.com/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) (Oregon Health Sciences University)
 
 **Student Editors**
 
