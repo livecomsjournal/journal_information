@@ -10,7 +10,7 @@ Once approved for submission, the authors should prepare the manuscript using [L
 Instructions on how to use the templates can be found [in the GitHub repository with the template files](http://https://github.com/livecomsjournal/article_templates).
 
 Formal submission of the manuscript occurs only when the authors post the resulting document to a preprint server of their choice and also offically submit the linked manuscript to LiveCoMS. 
-A complete description of the submission process can be found in [the guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/)
+A complete description of the submission process can be found in [the guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/).
 
 # Review and revision
 
