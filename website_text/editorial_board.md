@@ -14,7 +14,7 @@
 
 [Daniel Siderius](https://www.nist.gov/people/daniel-siderius) (National Institue of Standards and Technology)
 
-[Michael Shirts](https://www.nist.gov/people/daniel-siderius) (University of Colorado Boulder)
+[Michael Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
 
 [Daniel Zuckerman](http://www.ohsuwelcome.com/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) (Oregon Health Sciences University)
 
