@@ -1,25 +1,35 @@
-**Managing Editors**: David Mobley, Michael Shirts, Daniel M. Zuckerman
+## Editors
 
-**Lead Editor for Living Reviews**: David Mobley
+**Managing Editors**: David L. Mobley, Michael Shirts, Daniel M. Zuckerman
+
+**Lead Editor for Living Reviews**: David L. Mobley
 
 **Lead Editor for Best Practice Guides**: Michael Shirts
 
-**Editorial Board**
+**Lead Editor for Lessons Learned**: Daniel M. Zuckerman 
 
-[Rommie Amaro](https://amarolab.ucsd.edu/) (University of California San Diego)
+## Editorial Board
 
-[Heather Mayes](http://cheresearch.engin.umich.edu/mayes/team/) (University of Michigan)
+- [Rommie Amaro](https://amarolab.ucsd.edu/) (University of California San Diego)
 
-[David Mobley](https://mobleylab.org/) (University of California Irvine)
+- [Edward R. Lyman](http://lymangroup.physics.udel.edu/) (University of Delaware)
 
-[Daniel Siderius](https://www.nist.gov/people/daniel-siderius) (National Institue of Standards and Technology)
+- [Heather Mayes](http://cheresearch.engin.umich.edu/mayes/team/) (University of Michigan)
 
-[Michael Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
+- [David L. Mobley](https://mobleylab.org/) (University of California Irvine)
 
-[Daniel Zuckerman](http://www.ohsuwelcome.com/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) (Oregon Health & Science University)
+- [Jean-Philip Piquemal](http://www.lct.jussieu.fr/pagesperso/jpp/) (Sorbonne Université)
 
-**Student Editors**
+- [Daniel Siderius](https://www.nist.gov/people/daniel-siderius) (National Institue of Standards and Technology)
 
-Justin Gilmer (Vanderbilt University)
+- [Michael Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
 
-Pascal Merz (University of Colorado Boulder)
+- [Yuji Sugita]http://www.riken.jp/en/research/labs/chief/theor_mol_sci/) (RIKEN)
+
+- [Daniel M. Zuckerman](http://www.ohsuwelcome.com/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) (Oregon Health & Science University)
+
+## Student Editors
+
+- Justin Gilmer (Vanderbilt University)
+
+- Pascal Merz (University of Colorado Boulder)
