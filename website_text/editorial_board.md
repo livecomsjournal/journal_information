@@ -24,7 +24,7 @@
 
 - [Michael Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
 
-- [Yuji Sugita]http://www.riken.jp/en/research/labs/chief/theor_mol_sci/) (RIKEN)
+- [Yuji Sugita](http://www.riken.jp/en/research/labs/chief/theor_mol_sci/) (RIKEN)
 
 - [Daniel M. Zuckerman](http://www.ohsuwelcome.com/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) (Oregon Health & Science University)
 
