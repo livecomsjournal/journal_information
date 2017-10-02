@@ -8,6 +8,8 @@
 
 **Lead Editor for Lessons Learned**: Daniel M. Zuckerman 
 
+**Lead Editor for Tutorials**: Rommie E. Amaro
+
 ## Editorial Board
 
 - [Rommie Amaro](https://amarolab.ucsd.edu/) (University of California San Diego)
