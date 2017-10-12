@@ -22,6 +22,8 @@
 
 - [Jean-Philip Piquemal](http://www.lct.jussieu.fr/pagesperso/jpp/) (Sorbonne Université)
 
+- [Chris Oostenbrink](http://www.map.boku.ac.at/en/mms/) (University of Natural Resources and Life Sciences, Vienna)
+
 - [Daniel Siderius](https://www.nist.gov/people/daniel-siderius) (National Institue of Standards and Technology)
 
 - [Michael Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
