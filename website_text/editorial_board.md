@@ -2,11 +2,13 @@
 
 **Managing Editors**: David L. Mobley, Michael Shirts, Daniel M. Zuckerman
 
-**Lead Editor for Living Reviews**: David L. Mobley
-
 **Lead Editor for Best Practice Guides**: Michael Shirts
 
 **Lead Editor for Lessons Learned**: Daniel M. Zuckerman 
+
+**Lead Editor for Living Reviews**: David L. Mobley
+
+**Lead Editor for Molecular Simulation Comparisons**: Jean-Philip Piquemal
 
 **Lead Editor for Tutorials**: Rommie E. Amaro
 
