@@ -6,7 +6,7 @@
 
 **Lead Editor for Lessons Learned**: Daniel M. Zuckerman 
 
-**Lead Editor for Living Reviews**: David L. Mobley
+**Lead Editor for Perpetual Reviews**: David L. Mobley
 
 **Lead Editor for Molecular Simulation Comparisons**: Jean-Philip Piquemal
 
