@@ -1,16 +1,17 @@
 ## Editors
 
-**Managing Editors**: David L. Mobley, Michael Shirts, Daniel M. Zuckerman
+**Managing Editors**: David L. Mobley, Michael R. Shirts, Daniel M. Zuckerman
 
-**Lead Editor for Best Practice Guides**: Michael Shirts
-
-**Lead Editor for Lessons Learned**: Daniel M. Zuckerman 
+**Lead Editor for Tutorials**: Rommie Amaro
 
 **Lead Editor for Perpetual Reviews**: David L. Mobley
 
 **Lead Editor for Molecular Simulation Comparisons**: Jean-Philip Piquemal
 
-**Lead Editor for Tutorials**: Rommie E. Amaro
+**Lead Editor for Best Practice Guides**: Michael R. Shirts
+
+**Lead Editor for Lessons Learned**: Daniel M. Zuckerman 
+
 
 ## Editorial Board
 
@@ -28,7 +29,7 @@
 
 - [Daniel Siderius](https://www.nist.gov/people/daniel-siderius) (National Institue of Standards and Technology)
 
-- [Michael Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
+- [Michael R. Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
 
 - [Yuji Sugita](http://www.riken.jp/en/research/labs/chief/theor_mol_sci/) (RIKEN)
 
