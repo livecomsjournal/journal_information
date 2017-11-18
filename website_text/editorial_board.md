@@ -2,15 +2,15 @@
 
 **Managing Editors**: David L. Mobley, Michael Shirts, Daniel M. Zuckerman
 
-**Lead Editor for Best Practice Guides**: Michael Shirts
+**Lead Editor for Best Practice Guides** (bestpractices@livecomsjournal.org): Michael Shirts
 
-**Lead Editor for Lessons Learned**: Daniel M. Zuckerman 
+**Lead Editor for Lessons Learned** (lessonslearned@livecomsjoural.org): Daniel M. Zuckerman 
 
-**Lead Editor for Perpetual Reviews**: David L. Mobley
+**Lead Editor for Perpetual Reviews** (reviews@livecomsjournal.org): David L. Mobley
 
-**Lead Editor for Molecular Simulation Comparisons**: Jean-Philip Piquemal
+**Lead Editor for Molecular Simulation Comparisons** (computationalcomparisons@livecomsjournal.org): Jean-Philip Piquemal
 
-**Lead Editor for Tutorials**: Rommie E. Amaro
+**Lead Editor for Tutorials** (tutorials@livecomsjournal.org): Rommie E. Amaro
 
 ## Editorial Board
 
