@@ -7,4 +7,4 @@ This repository provides a modifiable version of the informational content of th
 
 ## What's here
 - [`website_text`](website_text): Contains content for the journal website; edits to the website can be made here and then will be propagated manually to the website
-- [`editorial_material`](editorial_material): Material concerning editorial policies, instructions for authors, etc., which gets posted on the website in the Editorial category.
+- [`editorial_material`](editorial_material): Content for some material posted on the website, such as our "Why LiveCoMS" document. For editorial policies and other content, see the display version at  [https://livecomsjournal.github.io](https://livecomsjournal.github.io) and the editable version at [https://github.com/livecomsjournal/livecomsjournal.github.io](https://github.com/livecomsjournal/livecomsjournal.github.io).
