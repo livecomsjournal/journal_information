@@ -4,3 +4,5 @@ These works are living documents, regularly updated with community input, and ca
 For more on LiveCoMS, be sure to read our vision document on [Why we need the Living Journal of Computational Molecular Science](http://www.livecomsjournal.org/article/2031-why-we-need-the-living-journal-of-computational-molecular-science), and you may also be interested in our thoughts on how [paper writing is like code development](https://livecomsjournal.github.io/about/paper_code/).
 
 If you are interested in submitting, author instructions and editorial policies are available on our instructional pages at [https://livecomsjournal.github.io](https://livecomsjournal.github.io), and submission is via the [journal website](http://livecomsjournal.org).
+
+Cover art: Merry Wang
