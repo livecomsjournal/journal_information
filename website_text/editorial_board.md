@@ -1,16 +1,16 @@
 ## Editors
 
-**Managing Editors**: David L. Mobley, Michael Shirts, Daniel M. Zuckerman
+**Managing Editors**: David L. Mobley, Michael R. Shirts, Daniel M. Zuckerman
 
-**Lead Editor for Best Practice Guides** (bestpractices@livecomsjournal.org): Michael Shirts
+**Lead Editor for Best Practice Guides** ([bestpractices@livecomsjournal.org](mailto:bestpractices@livecomsjournal.org)): Michael Shirts
 
-**Lead Editor for Lessons Learned** (lessonslearned@livecomsjoural.org): Daniel M. Zuckerman 
+**Lead Editor for Lessons Learned** ([lessonslearned@livecomsjoural.org](lessonslearned@livecomsjoural.org)): Daniel M. Zuckerman
 
-**Lead Editor for Perpetual Reviews** (reviews@livecomsjournal.org): David L. Mobley
+**Lead Editor for Perpetual Reviews** ([reviews@livecomsjournal.org](mailto:reviews@livecomsjournal.org)): David L. Mobley
 
-**Lead Editor for Molecular Simulation Comparisons** (computationalcomparisons@livecomsjournal.org): Jean-Philip Piquemal
+**Lead Editor for Molecular Simulation Comparisons** ([computationalcomparisons@livecomsjournal.org](mailto:computationalcomparisons@livecomsjournal.org)): Jean-Philip Piquemal
 
-**Lead Editor for Tutorials** (tutorials@livecomsjournal.org): Rommie E. Amaro
+**Lead Editor for Tutorials** ([tutorials@livecomsjournal.org](mailto:tutorials@livecomsjournal.org)): Rommie E. Amaro
 
 ## Editorial Board
 
@@ -28,7 +28,7 @@
 
 - [Daniel Siderius](https://www.nist.gov/people/daniel-siderius) (National Institue of Standards and Technology)
 
-- [Michael Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
+- [Michael R. Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
 
 - [Yuji Sugita](http://www.riken.jp/en/research/labs/chief/theor_mol_sci/) (RIKEN)
 
