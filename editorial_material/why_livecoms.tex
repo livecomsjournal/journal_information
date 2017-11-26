@@ -3,7 +3,7 @@
 %%% ADAPTED FROM ELIFE ARTICLE TEMPLATE (8/10/2017)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% PREAMBLE 
-\documentclass[9pt]{livecoms}
+\documentclass[9pt,editorial]{livecoms}
 % Use the onehalfspacing option for 1.5 line spacing
 % Use the doublespacing option for 2.0 line spacing
 % Please note that these options may affect formatting.
@@ -13,12 +13,15 @@
 \usepackage{siunitx}
 \DeclareSIUnit\Molar{M}
 
+\newcommand{\githubrepository}{\url{https://github.com/livecomsjournal/journal_information}} 
+\newcommand{\versionnumber}{1.1}  % you should update the minor version number in preprints and major version number of submissions.
+
 \usepackage{natbib}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% ARTICLE SETUP
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\title{Why we need the Living Journal of Computational Molecular Science}
+\title{Why we need the Living Journal of Computational Molecular Science: v1.1}
 
 \author[1*]{David L. Mobley}
 \author[2*]{Michael R. Shirts}
@@ -31,12 +34,16 @@
 \corr{michael.shirts@colorado.edu}{MRS}
 \corr{zuckermd@ohsu.edu}{DMZ}
 
+\blurb{This LiveCoMS document is maintained online on GitHub at \githubrepository 
+\ under \texttt{editorial\_material}; to provide feedback, suggestions, or help improve it, please visit the GitHub repository and participate via the issue tracker.}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% ARTICLE START
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
+\begin{frontmatter}
 
 \maketitle
 
@@ -48,7 +55,7 @@ Readers should know where to find authoritative information on a given topic and
 Additionally, authors who invest a great deal of time and effort in creating valuable materials to advance the field should receive credit for it without having to re-write the same material again to re-publish it in a different journal as the field moves on. 
 We believe the model presented by \emph{LiveCoMS} addresses these issues.
 \end{abstract}
-
+\end{frontmatter}
 
 \section{\emph{LiveCoMS} focuses on providing living documents to advance the field}
 
@@ -60,8 +67,8 @@ Furthermore, word-of-mouth training in an apprenticeship setting can be unsystem
 \emph{LiveCoMS} seeks to change this, providing high quality but rapidly updatable materials covering important areas in CoMS.
 
 Currently, both textbooks and review papers are difficult to update or maintain.
-For example, Leach's \emph{Molecular Modelling}~(\cite{Leach:2001:}) remains a standard and valuable text in the field but was last updated in 2001.
-Allen and Tildesley's \emph{Computer Simulations of Liquids} is also standard and went from 1989 to 2017 between updates~(\cite{allen_computer_2017}). 
+For example, Leach's \emph{Molecular Modelling}~\cite{Leach:2001:} remains a standard and valuable text in the field but was last updated in 2001.
+Allen and Tildesley's \emph{Computer Simulations of Liquids} is also standard and went from 1989 to 2017 between updates~\cite{allen_computer_2017}. 
 While review papers tend to be more timely, these also go out of date quickly, and are often limited by space. 
 Typical journal copyright transfer policies mean that a journal takes ownership of the content of a review when it is published and does not allow creation of derivative works, so authors have no mechanism to update and re-publish their work.
 Thus, review papers typically provide a snapshot of the literature and the authors' current perspective when the article was published, but they become less valuable as time passes and the field moves on.
@@ -78,28 +85,28 @@ Thus, preprints provide a glimpse of a path forward, as they are updatable docum
 Posting of preprints is also typically free, lowering the entry barrier. 
 However, in much of computational molecular science (some areas of physics being a potential exception) preprints do not yet provide the same degree of academic credit as a peer-reviewed publication. 
 
-Another glimpse is provided by the concept of ``perpetual'' or ``living'' reviews~(\cite{Mobley:2015:arXiv:1502.01329[cs]}); these begin as traditional review papers but the authors keep them current by releasing new versions regularly which incorporate new developments and/or community feedback.
+Another glimpse is provided by the concept of ``perpetual'' or ``living'' reviews~\cite{Mobley:2015:arXiv:1502.01329[cs]}; these begin as traditional review papers but the authors keep them current by releasing new versions regularly which incorporate new developments and/or community feedback.
 Such reviews provide the potential that an author who stays in a given field could maintain an authoritative, current document which always reflect the state of the field and the author(s)' views. 
 Some efforts in this direction have been taken by the Springer's \emph{Living Reviews} (\url{livingreviews.org}) in the areas of relativity, solar physics, and computational astrophysics, though there appear to have been few such efforts in CoMS as yet. 
 \footnote{It is worth also highlighting \url{Scholarpedia.org}, which attempts to be a peer reviewed, open access encyclopedia, with versioned articles; however, authorship of these articles can become less clear (since updates can come from outside and are moderated by a curator, who may or may not be an author) and the format is very different from traditional academic publishing.}
-However, one of the present authors (DLM) is currently experimenting with just such a review (originally published with \emph{Ann. Rev. Biophys.}~(\cite{Mobley:2017:AnnualReviewofBiophysics}), and now maintained as a perpetual review~(\cite{Mobley:2017:eScholarshipa}) and on GitHub at \url{github.com/mobleylab/benchmarksets}), and it has already expanded significantly to incorporate new developments, even gaining an additional author.
+However, one of the present authors (DLM) is currently experimenting with just such a review (originally published with \emph{Ann. Rev. Biophys.}~\cite{Mobley:2017:AnnualReviewofBiophysics}) and now maintained as a perpetual review(\cite{Mobley:2017:eScholarshipa} and on GitHub at \url{github.com/mobleylab/benchmarksets}), and it has already expanded significantly to incorporate new developments, even gaining additional authors.
 
-Still, neither of these advancements provide a mechanism for publication credit; this type of credit can be provided by the concept of ``overlay journals''.
-Overlay journals (e.g. \emph{Discrete Analysis} (\url{http://discreteanalysisjournal.com}, as explained at~(\cite{:2015:Gowers'sWeblog})), \emph{Quantum} (\url{http://quantum-journal.org/instructions/authors}) ) do not formally host articles themselves, but provide peer reviews of specific versions of preprints, then, based on these reviews, publishes articles by linking to the versioned preprints and giving them status as formal publications.
+Still, neither of these advancements provide a mechanism for publication credit; but the concept of ``overlay journals'' provides one illustration of how publication credit can work.
+Overlay journals (e.g. \emph{Discrete Analysis} (\url{http://discreteanalysisjournal.com}, as explained at~\cite{:2015:Gowers'sWeblog}), \emph{Quantum} (\url{http://quantum-journal.org/instructions/authors}) ) do not formally host articles themselves, but provide peer reviews of specific versions of preprints, then, based on these reviews, publishes articles by linking to the versioned preprints and giving them status as formal publications.
 This allows fairly formal publication credit; for example, they may be indexed by Google Scholar, and \emph{Quantum} is working towards inclusion in Web of Science and other indices. 
 At the same time, the overlay journal approach also allows costs to remain extremely low; these journals typically charge a nominal fee (\$10 to \$200 or so) to cover operating costs and the costs of managing peer review, but this is quite affordable and authors can in some cases draw on institutional open access incentives to cover the costs. 
 
-\section{\emph{LiveCoMS} combines the existing concepts of preprints, perpetual reviews, and overlay journals to achieve our goals}
+\section{\emph{LiveCoMS} combines aspects of the existing concepts of preprints, perpetual reviews, and overlay journals to achieve our goals}
 
-\emph{LiveCoMS} attempts to achieve its goals by providing an overlay journal allowing versioned updates.
-Authors post documents to their preprint server of choice, gaining the benefits of traditional preprints such as early exposure, community feedback, and so on. 
-\emph{LiveCoMS} then arranges for peer reviews of these preprints, and, after review/revision, if the articles are suitable for publication, it formally publishes them by linking to the specific version which was reviewed and providing them with a DOI.
-This provides formal publication credit, yet it still allows straightforward versioned updates; the authors are free to post new versions of their ``preprints'' at any time, and can also update the version linked to by \emph{LiveCoMS} when needed, as discussed below.
+\emph{LiveCoMS} attempts to achieve its goals by providing a journal which allows versioned updates.
+Authors post preprints of their documents on GitHub, and optionally on their preprint server of choice, gaining the benefits of traditional preprints such as early exposure, community feedback, and so on. 
+\emph{LiveCoMS} then arranges for peer reviews of these documents, and, after review/revision, if the articles are suitable for publication, it formally publishes them by posting the specific version which was reviewed, providing a DOI, and linking to the GitHub repository where updates will be made.
+This provides formal publication credit, yet it still allows straightforward versioned updates; the authors are free to post new versions of their ``preprints'' and documents at any time, and can also update the version linked to by \emph{LiveCoMS} when needed, as discussed below.
 
-To help with handling of the updating process and community feedback, we recommend the ``paper writing as code development'' model (\url{https://livecomsjournal.github.io/paper_code.html}) to formalize community feedback and provide better mechanisms for outside contributions. 
+To help with handling of the updating process and community feedback, we recommend the ``paper writing as code development'' model (\url{https://livecomsjournal.github.io/about/paper_code/}) to formalize community feedback and provide better mechanisms for outside contributions. 
 
 Revision of works published in \emph{LiveCoMS} can occur at two levels. 
-First, for minor revisions, \emph{LiveCoMS} publications can link to the preprint server or other repository where ALL versions of a paper will be placed, so readers visiting the published version of the article will be able to click through to the most up-to-date version.
+First, for minor revisions, all \emph{LiveCoMS} publications link to a GitHub repository which hosts ALL versions their paper, so readers visiting the published version of the article will be able to click through to the most up-to-date version.
 Second, significant revisions are expected to be made on a fairly regularly basis (perhaps yearly to every couple of years) and these can be published again in \emph{LiveCoMS}, allowing authors to obtain additional publication credit for work they have done updating and maintaining their contributions. 
 
 %MRS: should this section below go earlier?
@@ -123,7 +130,7 @@ We hope you agree and will consider submitting your work to \emph{The Living Jou
 \section{Acknowledgments}
 
 We thank the University of Colorado Boulder for initial financial support for \emph{LiveCoMS}. 
-DLM thanks Michael K. Gilson (UCSD) for helping with and tolerating his initial experiments on a perpetual review which was first published in Annual Reviews in Biophysics~(\cite{Mobley:2017:AnnualReviewofBiophysics}), and now maintained as a perpetual review~(\cite{Mobley:2017:eScholarshipa}) and updated on GitHub at \url{github.com/mobleylab/benchmarksets}.
+DLM thanks Michael K. Gilson (UCSD) for helping with and tolerating his initial experiments on a perpetual review which was first published in Annual Reviews in Biophysics~\cite{Mobley:2017:AnnualReviewofBiophysics}, and now maintained as a perpetual review~\cite{Mobley:2017:eScholarshipa} and updated on GitHub at \url{github.com/mobleylab/benchmarksets}.
 
 %\nocite{*} % This command displays all refs in the bib file
 \bibliography{why_livecoms}
