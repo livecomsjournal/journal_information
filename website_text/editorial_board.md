@@ -17,11 +17,11 @@
 
 ## Editorial Board
 
-- [Rommie Amaro](https://amarolab.ucsd.edu/) (University of California San Diego)
+- [Rommie E. Amaro](https://amarolab.ucsd.edu/) (University of California San Diego)
 
 - [Edward R. Lyman](http://lymangroup.physics.udel.edu/) (University of Delaware)
 
-- [Heather Mayes](http://cheresearch.engin.umich.edu/mayes/team/) (University of Michigan)
+- [Heather B. Mayes](http://cheresearch.engin.umich.edu/mayes/team/) (University of Michigan)
 
 - [David L. Mobley](https://mobleylab.org/) (University of California Irvine)
 
