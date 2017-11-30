@@ -37,8 +37,3 @@
 
 - [Daniel M. Zuckerman](http://www.ohsuwelcome.com/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) (Oregon Health & Science University)
 
-## Student Editors
-
-- Justin Gilmer (Vanderbilt University)
-
-- Pascal Merz (University of Colorado Boulder)
