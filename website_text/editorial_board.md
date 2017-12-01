@@ -29,7 +29,7 @@
 
 - [Chris Oostenbrink](http://www.map.boku.ac.at/en/mms/) (University of Natural Resources and Life Sciences, Vienna)
 
-- [Daniel W. Siderius](https://www.nist.gov/people/daniel-siderius) (National Institue of Standards and Technology)
+- [Daniel W. Siderius](https://www.nist.gov/people/daniel-siderius) (National Institute of Standards and Technology)
 
 - [Michael R. Shirts](https://www.colorado.edu/lab/shirtsgroup/) (University of Colorado Boulder)
 
