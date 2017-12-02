@@ -5,7 +5,7 @@ The Living Journal of Computational Molecular Science is a peer-reviewed journal
 
 Authors should first send a presubmission letter to an editor in the relevant area. 
 The contents of the  letter are described in the [Guide for writing articles for LiveCoMS](https://livecomsjournal.github.io/).
-**Submissions without an approved presubmission letter will be rejected without review, and authors will not receive any refund on their sumission**
+**Submissions without an approved presubmission letter will be rejected without review, and authors will not receive any refund on their submission.**
 
 Once approved for submission, the authors should prepare the manuscript using [LaTeX](https://www.latex-project.org/) in a suitable public [GitHub](http://wwww.github.com) repository, using our [LaTeX template](https://github.com/livecomsjournal/article_templates). 
 Instructions on how to use the templates can be found [in the GitHub repository with the template files](http://https://github.com/livecomsjournal/article_templates).
