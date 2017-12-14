@@ -1,6 +1,17 @@
 Thank you for your interest in LiveCoMS. 
 The Living Journal of Computational Molecular Science is a peer-reviewed journal and welcomes submissions from all investigators. 
 
+# Types of articles
+ 
+Five types of manuscripts are currently published in LiveCoMS: 
+- [Best Practices](https://livecomsjournal.github.io/authors/best_practices/)
+- [Reviews](https://livecomsjournal.github.io/authors/perpetual_reviews/)
+- [Tutorials](https://livecomsjournal.github.io/authors/tutorials/)
+- [Comparisons between software packages](https://livecomsjournal.github.io/authors/compare_simulations/)
+- [Lessons learned](https://livecomsjournal.github.io/authors/lessons_learned/)
+
+More details journal policies and procedures can be found in [our authors guide](https://livecomsjournal.github.io/).
+
 # Before Submission
 
 Authors should first send a presubmission letter to an editor in the relevant area. 
@@ -28,11 +39,6 @@ A description of the versioning process can be found in [the guide for writing a
 We understand that in the evolving lifetime of such a perpetual article, there may be changes in authorship. 
 Our principle is that participants (e.g. new authors, people providing feedback) should receive credit for their contributions. 
 A complete description of LiveCoMS policies for publication credit can be found in [the guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/). 
-
-# Types of articles
- 
-Four types of manuscripts are currently published in LiveCoMS: Best practices guides, perpetual reviews, comparisons of molecular simulation programs, and tutorials. 
-More details on each of these article types can be found in [our authors guide](https://livecomsjournal.github.io/).
 
 # Article restrictions
 
