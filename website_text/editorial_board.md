@@ -6,7 +6,7 @@
 
 **Lead Editor for Perpetual Reviews** ([reviews@livecomsjournal.org](mailto:reviews@livecomsjournal.org)): David L. Mobley
 
-**Lead Editor for Molecular Simulation Comparisons** ([computationalcomparisons@livecomsjournal.org](mailto:computationalcomparisons@livecomsjournal.org)): Jean-Philip Piquemal
+**Lead Editor for Molecular Simulation Comparisons** ([comparisons@livecomsjournal.org](mailto:comparisons@livecomsjournal.org)): Jean-Philip Piquemal
 
 **Lead Editor for Best Practice Guides** ([bestpractices@livecomsjournal.org](mailto:bestpractices@livecomsjournal.org)): Michael R. Shirts
 
