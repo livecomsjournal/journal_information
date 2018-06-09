@@ -28,12 +28,12 @@ A complete description of how to prepare an article can be found in [the guide f
 Articles (after approval of the presubmission letter) are submitted on the journal site, from [the "For Authors" section](http://www.livecomsjournal.org/for-authors). When filling out the submission form, note the following instructions.
 
 * Even if a version of the article is posted on arXiv, do not select to import the submission information from arXiv.
-* Limit the abstract to 300 words, and should include the web address of the GitHub repository where the author's version of the article is housed.
+* Limit the abstract to 300 words, and should include the web address of the GitHub repository where the author's version of the article is hosted.
 * The main simulation manuscript should be of type `.pdf`.
 * As a Supporting File, please upload a image (at least 300 x 200 pixels, any standard image format, color preferred, less than 1MB in size). This image is important to choose carefully, as it is the image that will appear on the article's front page and whenever the paper is shared on social media. We suggest something evocative of the research, but containing less scientific detail than, say, the table of contents image for an ACS journal. 
 * If there are simulation input files or data files included as part of your article, they should be placed into a single compressed `.zip` directory, with a README file fully explaining how to use the, as "Supporting Files".  Data should be uploaded in nonproprietary formats (`.pdf` instead of `.ppt`/`.pptx`/`.key`, `.csv` instead of `.xls` or `.xlsx`). In most cases, explanatory information should be put directly in the article itself, as there are no page limits. Supporting Files such as movies can be uploaded separately.
 
-* For the keywords section, please put the type of manuscript (one of either "Best Practices", "Living Reviews", " Comparisons of Molecular Simulation Packages", "Lessons Learned", and "Tutorials") and up to 4 other short terms or keywords.  
+* For the keywords section, please put the type of manuscript (one of either "Best Practices", "Living Reviews", " Comparisons of Molecular Simulation Packages", "Lessons Learned", and "Tutorials") and up to four other short terms or keywords.  
 
 # Review and revision
 
