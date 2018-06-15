@@ -4,12 +4,20 @@ Below of typical form letters used for correspondence with reviewers.  Note that
 
 ### Sample review request letter
 
-Dear Dr. {{AUTHOR-LAST-NAME}},
+Dear Dr. {{AUTHOR-LAST-NAME},  (Change from Dr. if going to a grad student)
 
-Please be sure you review and understand our conflict of interest policies before making a decision on whether or not to accept this review request.
+I would like to invite you to review an article entitled "{{MANUSCRIPT-TITLE}}", which has been submitted to the Living Journal of Computational Molecular Science (LiveCOMS). The abstract of the article is included below.
 
-Thank you very much.
-{{SENDER-FULL-NAME}},
+LiveCoMS is a new and unique journal, which focuses on promoting best practices in molecular computation via updateable educational articles of various kinds - tutorials, reviews, best practices descriptions, comparisons of computational programs, and “lessons learned” about molecular simulation. The journal is low-cost, non-profit and run by members of our community in a transparent way; in part, it aims to provide academic credit for important work that often goes unrewarded. We encourage you to learn more about the journal at the journal web site as well as learn more about the unique aspects of the review process for LiveCOMS.
+
+Reviews are due in 21 days. If you feel you are unable to review this article, we would appreciate suggestions of other reviewers. 
+
+LiveCOMS has a Conflicts of Interest policy and reviewers should make sure they are familiar with this and decline to review if they have a conflict, or if they are uncertain, to disclose any potential conflicts to the editor managing the review process.
+
+If you have any other questions about the reviewing process, please respond to this email, or feel free to reach out to the editors at managing@livecomsjournal.org.
+
+Thank you very much,
+{{SENDER-FULL-NAME}}
 Editor, Living Journal of Computational Molecular Science
 
 **Manuscript title, authors, and deadline are included below the email automatically by Scholastica**
@@ -18,30 +26,7 @@ Editor, Living Journal of Computational Molecular Science
 
 ### Sample review action/thanks for agreeing letter
 
-(Each category has its own form letter, differing in the link to category-specific review criteria. )
-
-Dear XYZ,
-
-Thank you very much for agreeing to review the LiveCoMS submission, `{{MANUSCRIPT-TITLE}}`.
-Your support of our new community-run journal is very encouraging.
-
-I would appreciate receiving your review within 10 days, by `TTTTTT`.
-
-The article is to be considered under the `YYY` category.
-To aid you in your review, both the general [review criteria](https://livecomsjournal.github.io/authors/policies/#review-criteria) and the criteria specific to [Best Practices Guides](https://livecomsjournal.github.io/authors/best_practices/) are appended below.
-
-Please read our conflict-of-interest criteria and inform me of any potential conflicts.
-
-Note also that non-anonymous feedback can be provided directly to authors via the GitHub page linked in the manuscript, if you so desire.
-
-If you have any questions, please reply to this email.
-
-Thank you very much.
-`{{SENDER-FULL-NAME}}`, Associate Editor
-
-REVIEW CRITERIA
-`Fill in current general review criteria`
-`Fill in current category-specific review criteria`
+There is no review action template from Scholastica.  I am asking about this.  We will route information through the reviewer instructions.
 
 ### Reviewer form
 
