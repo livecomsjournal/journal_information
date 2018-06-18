@@ -10,7 +10,7 @@ I would like to invite you to review an article entitled "{{MANUSCRIPT-TITLE}}",
 
 LiveCoMS is a new and unique journal, which focuses on promoting best practices in molecular computation via updateable educational articles of various kinds - tutorials, reviews, best practices descriptions, comparisons of computational programs, and “lessons learned” about molecular simulation. The journal is low-cost, non-profit and run by members of our community in a transparent way; in part, it aims to provide academic credit for important work that often goes unrewarded. We encourage you to learn more about the journal at the journal web site as well as learn more about the unique aspects of the review process for LiveCOMS.
 
-Reviews are due in 21 days. If you feel you are unable to review this article, we would appreciate suggestions of other reviewers. 
+Reviews are due in 15 days. If you feel you are unable to review this article, we would appreciate suggestions of other reviewers. 
 
 LiveCOMS has a Conflicts of Interest policy and reviewers should make sure they are familiar with this and decline to review if they have a conflict, or if they are uncertain, to disclose any potential conflicts to the editor managing the review process.
 
