@@ -30,7 +30,7 @@ There is no review action template from Scholastica.  I am asking about this.  W
 
 ### Reviewer form
 
-See description of the reviewer form at [https://livecomsjournal.github.io/policies/reviewer_information/]
+[View a description of the reviewer form](https://livecomsjournal.github.io/policies/reviewer_information/#reviewer-form)
 
 
 ## Sample decision letters
