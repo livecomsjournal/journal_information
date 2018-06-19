@@ -30,13 +30,7 @@ There is no review action template from Scholastica.  I am asking about this.  W
 
 ### Reviewer form
 
-(All fields will be communicated to the authors except comments to the editor)
-- Overall rating (one to five stars, with five being best)
-- For this manuscript I recommend (Accept/Revise and resubmit/Reject)
-- How well does the manuscript meet overall review criteria and category-specific criteria?
-- Is the paper adequately edited for clear scientific English?
-- Given that the accepted PDF will be the final version of the manuscript, are there formatting, style, or quality issues which should be addressed before acceptance? What about the quality of the figures, layout of any tables, etc.?
-- Comments to the editor
+See description of the reviewer form at [https://livecomsjournal.github.io/policies/reviewer_information/]
 
 
 ## Sample decision letters
