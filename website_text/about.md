@@ -10,6 +10,6 @@ All these works are expected to be living documents, [regularly updated on GitHu
 
 For more on LiveCoMS, be sure to read our vision document on [Why we need the Living Journal of Computational Molecular Science](http://www.livecomsjournal.org/article/2031-why-we-need-the-living-journal-of-computational-molecular-science).
 
-If you are interested in submitting, please see [author instructions](https://livecomsjournal.github.io/authors/) and [editorial policies](https://livecomsjournal.github.io/policies/).  Submission is via the [journal website](http://livecomsjournal.org).
+If you are interested in submitting, please see [author instructions](https://livecomsjournal.github.io/authors/) and [editorial policies](https://livecomsjournal.github.io/policies/).  Submission is via the [journal website](http://livecomsjournal.org). If you are interested in reviewing, please contact the [managing editors](managing@livecomsjournal.org); in particular, we have a special category of [student reviewers](https://livecomsjournal.github.io/about/earlycareer/)
 
 Cover art: Merry Wang
