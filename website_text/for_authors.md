@@ -7,7 +7,7 @@ Five types of manuscripts are currently published in LiveCoMS:
 - [Best Practices](https://livecomsjournal.github.io/authors/best_practices/)
 - [Reviews](https://livecomsjournal.github.io/authors/perpetual_reviews/)
 - [Tutorials](https://livecomsjournal.github.io/authors/tutorials/)
-- [Comparisons between software packages](https://livecomsjournal.github.io/authors/compare_simulations/)
+- [Software Analyses](https://livecomsjournal.github.io/authors/software_analyses/)
 - [Lessons learned](https://livecomsjournal.github.io/authors/lessons_learned/)
 
 More details journal policies and procedures can be found in [our authors guide](https://livecomsjournal.github.io/).
