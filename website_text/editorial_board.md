@@ -2,11 +2,11 @@
 
 **Managing Editors**: David L. Mobley, Michael R. Shirts, Daniel M. Zuckerman
 
-**Lead Editor for Tutorials** ([tutorials@livecomsjournal.org](mailto:tutorials@livecomsjournal.org)): Rommie E. Amaro
+**Lead Editor for Tutorials** ([tutorials@livecomsjournal.org](mailto:tutorials@livecomsjournal.org)): Mala Radhakrishnan
 
 **Lead Editor for Perpetual Reviews** ([reviews@livecomsjournal.org](mailto:reviews@livecomsjournal.org)): David L. Mobley
 
-**Lead Editor for Molecular Simulation Comparisons** ([comparisons@livecomsjournal.org](mailto:comparisons@livecomsjournal.org)): Jean-Philip Piquemal
+**Lead Editor for Software Analyses** ([software@livecomsjournal.org](mailto:comparisons@livecomsjournal.org)): Jean-Philip Piquemal
 
 **Lead Editor for Best Practice Guides** ([bestpractices@livecomsjournal.org](mailto:bestpractices@livecomsjournal.org)): Michael R. Shirts
 
@@ -25,9 +25,13 @@
 
 - [David L. Mobley](https://mobleylab.org/) (University of California Irvine)
 
-- [Jean-Philip Piquemal](http://www.lct.jussieu.fr/pagesperso/jpp/) (Sorbonne Université)
+- [Jean-Philip Piquemal](http://piquemalresearch.com/) (Sorbonne Université)
 
 - [Chris Oostenbrink](http://www.map.boku.ac.at/en/mms/) (University of Natural Resources and Life Sciences, Vienna)
+
+- [Mala Radhakrishnan](http://www.wellesley.edu/chemistry/facultystaff/radhakrishnan) (Wellesley College)
+
+- [Sapna Sarupria](http://molecularsimulations.sites.clemson.edu/) (Clemson University)
 
 - [Daniel W. Siderius](https://www.nist.gov/people/daniel-siderius) (National Institute of Standards and Technology)
 
