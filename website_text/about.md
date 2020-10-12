@@ -12,4 +12,6 @@ For more on LiveCoMS, be sure to read our vision document on [Why we need the Li
 
 If you are interested in submitting, please see [author instructions](https://livecomsjournal.github.io/authors/) and [editorial policies](https://livecomsjournal.github.io/policies/).  Submission is via the [journal website](http://livecomsjournal.org). If you are interested in reviewing, please contact the [managing editors](mailto:managing@livecomsjournal.org); in particular, we have a special category of [student reviewers](https://livecomsjournal.github.io/about/earlycareer/)
 
+To donate to LiveCoMS, visit [our donations page](https://livecomsjournal.github.io/about/donations/).
+
 Cover art: Merry Wang
